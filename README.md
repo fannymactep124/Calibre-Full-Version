@@ -240,4 +240,4 @@ This repository serves as the official landing page for Calibre. The software is
 **Get the most recent version of Calibre today!**
 
 ---
-**Last updated:** 2026-09-23 05:33:00 UTC
+**Last updated:** 2026-09-23 10:54:15 UTC
